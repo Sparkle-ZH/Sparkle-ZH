@@ -2,7 +2,7 @@
 
 ### 💬 About me
 + I am Sparkle_ZH, an OIer and from Nanchang, China.
-+ [Here](https://www.luogu.com.cn/user/265517) is my Luogu account, and [Here](https://codeforces.com/profile/Sparkle_ZH) is my Codeforces account (Still a Newbie😂).
++ [Here](https://www.luogu.com.cn/user/265517) is my Luogu account, and [Here](https://codeforces.com/profile/Sparkle_ZH) is my Codeforces account.
 + [Here](https://www.cnblogs.com/SparkleZH-Blog) is my Blog.
 
 [![Sparkle-ZH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparkle-ZH&show_icons=true&theme=slateorange)](https://github.com/Sparkle-ZH)
